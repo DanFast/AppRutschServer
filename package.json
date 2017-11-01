@@ -15,5 +15,12 @@
     "morgan": "~1.9.0",
     "mysql": "^2.15.0",
     "serve-favicon": "~2.4.5"
+  },
+  "engines": {
+    "node": "8.5.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DanFast/AppRutschServer"
   }
 }
